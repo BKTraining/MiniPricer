@@ -1,0 +1,3 @@
+C:\Formations\KataSG\kata\artifacts\MiniPricer-csharp.dll
+C:\Formations\KataSG\kata\src\TDD-Kata\MiniPricer\MiniPricer-csharp\obj\BPC\Release\MiniPricer-csharp.csprojResolveAssemblyReference.cache
+C:\Formations\KataSG\kata\src\TDD-Kata\MiniPricer\MiniPricer-csharp\obj\BPC\Release\MiniPricer-csharp.dll
